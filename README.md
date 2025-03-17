@@ -2,4 +2,4 @@
  The data provides a comprehensive collection of information about the sales transactions of various vehicles. This dataset encompasses details such as the manufacture year, condition, model, body type, transmission type, , condition rating, odometer reading,paint,4wd, selling prices,date posted and days listed.
  
 To perform the exploratory data Analysis on this data we have imported pandas ,streamlit and plotly.express libraries.And a histogram representation is also performed to analysis the prices of the car.And a scatter plot representaion is also carried out to understand the consuption of vehicle for every type of cars.
-Thebproject link is https://new-project-2-pzzx.onrender.com.
+The project link is https://new-project-2-pzzx.onrender.com.
