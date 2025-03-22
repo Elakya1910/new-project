@@ -1,4 +1,12 @@
 # my-python-project 
- The data provides a comprehensive collection of information about the sales transactions of various vehicles. This dataset encompasses details such as the manufacture year, condition, model, body type, transmission type, , condition rating, odometer reading,paint,4wd, selling prices,date posted and days listed.
- 
-To perform the exploratory data Analysis on this data we have imported pandas ,streamlit and plotly.express libraries.And a histogram representation is also performed to analysis the prices of the car.And a scatter plot representaion is also carried out to understand the consuption of vehicle for every type of cars.
+The Car Sales Data Analysis Project aims to explore, analyze, and visualize various factors that influence the selling prices of cars. By leveraging a dataset containing information on car sales, we seek to uncover insights and trends that can help stakeholders, such as car manufacturers, dealers, and buyers, make informed decisions.
+
+Technologies and Libraries
+Python: The core programming language used for this project.
+Pandas: Used for data manipulation and analysis.
+Streamlit: Utilized to create an interactive web application dashboard.
+Plotly Express: A plotting library used for creating visualizations. 
+
+Histograms to visualize price distribution and model year distribution. Scatter plots to correlate odometer readings with prices and model years with prices. Interactive checkboxes to toggle the visibility of different plots.
+
+The project link is https://new-project-2-pzzx.onrender.com.
